@@ -3,5 +3,5 @@
 ### Class material for Natural Language Processing Course 2020
 
 ## Class Slides
-#1 Overview [slide](https://info-ruc.github.io/nlpbot/overview.pdf) 
+#1 Overview [slide](https://info-ruc.github.io/nlp20/overview.pdf) 
 | [swi-prolog](https://www.swi-prolog.org/)
