@@ -11,3 +11,6 @@
 
 #3 Parser [slide](https://info-ruc.github.io/nlp20/parser.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp20/parser.pl)
+
+#4 DCG [slide](https://info-ruc.github.io/nlp20/dcg.pdf) 
+| [Source Code](https://info-ruc.github.io/nlp20/dcg.zip)
