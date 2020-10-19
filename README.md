@@ -17,3 +17,6 @@
 
 #4 Language Models [slide](https://info-ruc.github.io/nlp20/lanmod.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp20/spacy-intro.ipynb)
+
+#4 Representation [slide](https://info-ruc.github.io/nlp20/representation.pdf) 
+| [Source Code](https://info-ruc.github.io/nlp20/gensim-intro.ipynb)
