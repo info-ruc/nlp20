@@ -15,8 +15,11 @@
 #4 DCG [slide](https://info-ruc.github.io/nlp20/dcg.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp20/dcg.zip)
 
-#4 Language Models [slide](https://info-ruc.github.io/nlp20/lanmod.pdf) 
+#5 Language Models [slide](https://info-ruc.github.io/nlp20/lanmod.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp20/spacy-intro.ipynb)
 
-#4 Representation [slide](https://info-ruc.github.io/nlp20/representation.pdf) 
+#6 Representation [slide](https://info-ruc.github.io/nlp20/representation.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp20/gensim-intro.ipynb)
+
+#7 Text Models [slide](https://info-ruc.github.io/nlp20/textmodel.pdf) 
+| [Source Code](https://info-ruc.github.io/nlp20/textmodel.zip)
