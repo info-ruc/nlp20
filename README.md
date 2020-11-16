@@ -29,3 +29,6 @@
 
 #9 Sentiment Analysis [slide](https://info-ruc.github.io/nlp20/sentiment.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp20/sentiment.zip)
+
+#10 CNN [slide](https://info-ruc.github.io/nlp20/dl-cnn.pdf) 
+| [Source Code](https://info-ruc.github.io/nlp20/cnn.zip)
