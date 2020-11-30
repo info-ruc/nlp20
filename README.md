@@ -35,3 +35,6 @@
 
 #11 RNN(LSTM) [slide](https://info-ruc.github.io/nlp20/dl-lstm.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp20/lstm.zip)
+
+#12 AutoEncoder [slide](https://info-ruc.github.io/nlp20/dl-ae.pdf) 
+| [Source Code](https://info-ruc.github.io/nlp20/ae.zip)
