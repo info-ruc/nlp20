@@ -38,3 +38,6 @@
 
 #12 AutoEncoder [slide](https://info-ruc.github.io/nlp20/dl-ae.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp20/ae.zip)
+
+#13 Attention [slide](https://info-ruc.github.io/nlp20/dl-attn.pdf) 
+| [Source Code](https://info-ruc.github.io/nlp20/attn.zip)
