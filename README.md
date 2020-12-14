@@ -41,3 +41,6 @@
 
 #13 Attention [slide](https://info-ruc.github.io/nlp20/dl-attn.pdf) 
 | [Source Code](https://info-ruc.github.io/nlp20/attn.zip)
+
+#14 GAN [slide](https://info-ruc.github.io/nlp20/dl-gan.pdf) 
+| [Source Code](https://info-ruc.github.io/nlp20/gan.zip)
